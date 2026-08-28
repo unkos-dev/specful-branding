@@ -1,0 +1,52 @@
+Specful Brand Licensing
+
+Copyright (c) 2026 John Junkovich
+
+------------------------------------------------------------------------
+1. Documentation and reference material
+------------------------------------------------------------------------
+
+The following files are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0):
+
+  - identity.md
+  - index.html
+  - tokens.css
+
+You are free to share and adapt this material for any purpose, including
+commercial use, under these terms:
+
+  - Attribution: give appropriate credit, link to the licence and indicate
+    whether changes were made. You may do so in any reasonable manner, but not
+    in a way that suggests endorsement.
+  - No additional restrictions: do not apply legal terms or technological
+    measures that restrict anything the licence permits.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+------------------------------------------------------------------------
+2. Marks and brand assets
+------------------------------------------------------------------------
+
+The files under assets/, and any derivatives of them, are the trademarks and
+copyrighted brand assets of John Junkovich. They identify the Specful software
+project. All rights are reserved except for the permissions stated below.
+
+These assets may be used to:
+
+  - Refer to Specful in editorial, journalistic or educational material.
+  - Link to the Specful project.
+  - Identify an unmodified distribution of Specful.
+
+These assets may not be used to:
+
+  - Identify another product, service or software project.
+  - Suggest sponsorship, endorsement or affiliation that does not exist.
+  - Sell merchandise bearing the marks without prior written permission.
+
+If you fork Specful and rebrand it, replace these marks with your own. The
+licences covering the Specful product repository do not grant rights to use
+these marks outside the permissions above.
+
+For permissions beyond these terms, contact the project owner through the
+Specful repository.
